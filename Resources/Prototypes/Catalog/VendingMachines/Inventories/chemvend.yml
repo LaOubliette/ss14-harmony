@@ -26,6 +26,10 @@
     DrinkLithiumFlask: 1
     StrangePill: 3
     ChemistryBottleToxin: 1
+  emaggedInventory:
+  ChemistryBottlePax: 1
+  ChemistryBottleMuteToxin: 1
+
 
 - type: vendingMachineInventory
   id: ChemVendInventorySyndicate
