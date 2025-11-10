@@ -27,8 +27,8 @@
     StrangePill: 3
     ChemistryBottleToxin: 1
   emaggedInventory:
-  ChemistryBottlePax: 1
-  ChemistryBottleMuteToxin: 1
+  ChemistryBottlePax: 1 #harmony change
+  ChemistryBottleMuteToxin: 1 #harmony change 2
 
 
 - type: vendingMachineInventory

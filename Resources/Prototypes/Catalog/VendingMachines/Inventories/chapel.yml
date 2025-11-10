@@ -31,5 +31,5 @@
     ClothingHeadHatHoodCulthood: 3
     ClothingShoesCult: 4
     BedsheetCult: 4
-    ClothingOuterArmorCult: 1
-    ClothingHeadHelmetCult: 1
+    ClothingOuterArmorCult: 1 #harmony change
+    ClothingHeadHelmetCult: 1 #harmony change as well

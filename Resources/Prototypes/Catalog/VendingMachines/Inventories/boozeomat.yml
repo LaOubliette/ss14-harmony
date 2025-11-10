@@ -52,4 +52,4 @@
     DrinkBottleOfNothingFull: 1
     DrinkPoisonWinebottleFull: 2
   emaggedInventory:
-    ChemistryBottleToxin: 1
+    ChemistryBottleToxin: 1 #harmony change

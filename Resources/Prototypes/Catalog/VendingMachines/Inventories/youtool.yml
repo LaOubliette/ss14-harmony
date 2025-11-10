@@ -18,6 +18,6 @@
   contrabandInventory:
     Multitool: 1
   emaggedInventory:
-      ClothingHandsGlovesColorYellow: 1
-      ClothingHandsGlovesCombat: 1
+      ClothingHandsGlovesColorYellow: 1 #harmony change
+      ClothingHandsGlovesCombat: 1 #harmony change
 
