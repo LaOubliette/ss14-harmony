@@ -15,5 +15,7 @@
   emaggedInventory:
     ClothingUniformJumpskirtJanimaid: 2
     ClothingUniformJumpskirtJanimaidmini: 1
-    ClothingUniformJumpskirtTacticalMaid: 1 #harmony change
-    ClothingHandsTacticalMaidGloves: 1 #harmony change
+   # Harmony Change Start - Extra emag vendor interactions
+    ClothingUniformJumpskirtTacticalMaid: 1
+    ClothingHandsTacticalMaidGloves: 1
+    # Harmony Change End
